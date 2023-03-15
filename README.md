@@ -16,7 +16,7 @@
 This application is an installable PWA with the ability to work offline. 
 
 ## Installation
-To install the application, follow the [LINK]() to the deployed website and select the "Install" button in the upper left hand corner.
+To install the application, follow the [LINK](https://uwtexteditor.herokuapp.com/) to the deployed website and select the "Install" button in the upper left hand corner.
 
 ## Usage
 Write code in a simple text editor from anywhere in your web browser.
